@@ -1,0 +1,15 @@
+
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background: radial-gradient(circle at top, #1e1e2f, #0b0b12);
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+#app {
+  text-align: center;
+  transition: all 0.6s ease;
+}
